@@ -1,0 +1,39 @@
+.edit__body {
+    background-color: #ffd28f;
+}
+
+html{
+    height: 100%;
+}
+
+.edit__buttom{
+    background-color: #ffb13a !important;
+    border-color: #7cd456!important;
+    width: 75% !important; 
+}
+
+
+.edit__buttons{
+    height: 55vh;  /* trocar */ 
+}
+
+
+@media only screen and (min-width : 450px) {
+
+    .edit__img{
+        width: 450px !important;
+        height: 304px !important;
+    }
+
+    .edit__buttom{
+        width: 260px !important;
+        height:  60px !important;
+    }
+}
+
+@media only screen and (min-width : 600px) {
+    .edit__container{
+        background-color: #fdc168;
+        height: 90% !important;
+    }
+}
