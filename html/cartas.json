@@ -1,0 +1,333 @@
+[
+    
+    {
+        "id": 1,
+        "nome": "Alexandre, o grande",
+        "dicas": [
+            "Fui um imperador romano",
+            "Fortaleci meu poder na Macedônia e na Grécia",
+            "Contribui para a ampliação da cultura grega pelo Oriente",
+            "Construí um grande império que durou aproximadamente doze anos",
+            "Sou conhecido também como Alexandre magno"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Júlio César",
+        "dicas": [
+            "Fui um patrício, líder militar e político romano.",
+            "Fui responsável por grandes conquistas militares que comprovaram meu poder.",
+            "Minha morte marcou o fim da república romana",
+            "Sou conhecido como um ditador romano",
+            "Foi criado um calendário em minha homenagem"
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Júpiter",
+        "dicas": [
+            "Faço parte da mitologia romana",
+            "Fui um personagem importante para a cultura romana",
+            "Derrotei meu pai e libertei meus irmãos, assim me tornei o rei dos deuses",
+            "Sou o deus do dia, dos céus e do trovão",
+            "Na versão Grega sou chamado de Zeus"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Marco Antônio",
+        "dicas": [
+            "Tive um famoso romance com Cleópatra VII, a rainha do Egito",
+            "Fui um dos principais aliados e tenentes de Júlio César",
+            "Lutei ao lado de Júlio César na Gália e durante a Guerra Civil Romana contra Pompeu.",
+            "Fui  popular entre os soldados, mas minhas  políticas e estilo de vida  foram criticados por muitos romanos",
+            "Fui a inspiração da obra “Antônio e Cleópatra” de William Shakespeare"
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Nero",
+        "dicas": [
+            "Me tornei imperador em 54 d.C, aos 16 anos",
+            "Sempre gostei muito de música, teatro e poesia",
+            "Fui último imperador da dinastia júlio-claudiana",
+            "Iniciei a perseguição aos cristãos após o Grande Incêndio de Roma",
+            "Fiquei conhecido pela minha crueldade"
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Medusa",
+        "dicas": [
+            "Sou um “monstro” na mitologia grega",
+            "Ao contrario das minhas irmãs, não sou imortal",
+            "Eu era devota da deusa Atena",
+            "Fui derrotada pelo herói Perseu",
+            "Meu olhar transforma as pessoas em pedra."
+        ]
+    },
+    {
+        "id": 7,
+        "nome": "Hércules",
+        "dicas": [
+            "Fiquei conhecido por minha força sobre-humana e coragem.",
+            "Sou considerado um herói na mitologia grega",
+            "Tive que realizar doze missões",
+            "Sou filho do Rei dos Deuses com uma mortal",
+            "Tenho um filme na Disney"
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "Minerva",
+        "dicas": [
+            "Faço parte da mitologia romana",
+            "Existe uma cidade com meu nome",
+            "Um dos meus símbolos é uma coruja",
+            "Sou  a deusa da sabedoria e da guerra",
+            "Na versão grega sou chamada de Atena"
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "Minotauro",
+        "dicas": [
+            "Faço parte da mitologia grega",
+            "Meu mito é um dos mais famosos",
+            "Fui derrotado por Teseu",
+            "Moro na ilha de Creta, em um labirinto",
+            "Tenho corpo humano e cabeça de touro"
+        ]
+    },
+    {
+        "id": 10,
+        "nome": "Édipo",
+        "dicas": [
+            "Sou um herói da mitologia grega",
+            "Sou protagonista da famosa tragédia grega escrita por Sófocles",
+            "Resolvi o enigma da esfinge e libertei a cidade de Tebas",
+            "Fui abandonado pelos meus pais por causa de uma profecia",
+            "Sem saber casei com minha própria mãe"
+        ]
+    },
+    {
+        "id": 11,
+        "nome": "Coliseu",
+        "dicas": [
+            "Comecei a ser construído durante o reinado do Imperador   Vespasiano.",
+            "Minha inauguração foi no ano 80 d.C.",
+            "Sou um dos símbolos mais icônicos que exemplificam o poder e a engenharia da Roma Antiga.",
+            "Tenho quatro andares e uma estrutura oval.",
+            "Fui palco para muitas lutas de gladiadores e  eventos públicos."
+        ]
+    },
+    {
+        "id": 12,
+        "nome": "Pompeia",
+        "dicas": [
+            "Fui fundada entre os séculos VI e VII a.C.",
+            "Eu era uma cidade rica com muitos comércios.",
+            "Em 79 d.C. fui destruída de forma catastrófica pela erupção do monte Vesúvio.",
+            "Fui redescoberta no século XVIII por arqueólogos.",
+            "Nas escavações, foram encontrados corpos petrificados e preservados pelas cinzas"
+        ]
+    },
+    {
+        "id": 13,
+        "nome": "Mausoléu de Adriano",
+        "dicas": [
+            "Estou localizado próximo ao rio Timbre.",
+            "Tenho uma estatua de um anjo no topo.",
+            "Fui construído para ser o túmulo de um Imperador romano.",
+            "Minha função mudou várias vezes ao longo dos séculos, servindo tanto para defesa até para refúgio.",
+            "Hoje, sou conhecido também como Castel Sant’Angelo."
+        ]
+    },
+    {
+        "id": 14,
+        "nome": "Fórum de Augusto",
+        "dicas": [
+            "Sou uma expansão do Fórum Romano original.",
+            "Fui erguida para celebras a vitória na Batalha de Filipos.",
+            "Fui construído pelo primeiro imperador de Roma.",
+            "Fui utilizado como tribunal local de reuniões do senado.",
+            "Tenho um grande templo em meu centro, dedicado a  Marte, o deus da guerra."
+        ]
+    },
+    {
+        "id": 15,
+        "nome": "Athenas",
+        "dicas": [
+            "Fui um importante centro cultural. artístico, político e intelectual na antiguidade.",
+            "Sou uma cidade antiga, conhecida por ser o berço da democracia.",
+            "Fui uma das cidades-estados gregas mais poderosas.",
+            "Sou famosa por meus monumentos importantes, como Teatro de Dionísio.",
+            "Meu nome vem da deusa grega da sabedoria e da guerra."
+        ]
+    },
+    {
+        "id": 16,
+        "nome": "Esparta",
+        "dicas": [
+            "Sou uma antiga cidade-estado grega.",
+            "Sou conhecida  pelo  meu papel na história grega como uma sociedade guerreira.",
+            "Meus homens viviam nos quartéis até os 30 anos.",
+            "Participei da Guerra de Peloponeso contra Atenas.",
+            "Meus cidadãos eram chamados de  “espartanos” , eram famosos por sua força e determinação."
+        ]
+    },
+    {
+        "id": 17,
+        "nome": "Micenas",
+        "dicas": [
+            "Sou uma antiga cidade-estado na Grécia.",
+            "Fui uma das civilizações mais poderosas na Idade do Bronze.",
+            "Minhas riquezas  incluíam joias de ouro e  objetos de bronze.",
+            "Meu famoso rei era Agamenon, líder da guerra de Troia.",
+            "Sofri um declínio e colapso misterioso no final da Idade do Bronze."
+        ]
+    },
+    {
+        "id": 18,
+        "nome": "Parthenon",
+        "dicas": [
+            "Sou um famoso templo localizado em Atenas.",
+            "Fui parcialmente destruído , durante um ataque no século XVII pelos venezianos.",
+            "Fui dedicado  a uma deusa grega.",
+            "Originalmente , abrigava uma grande estátua de Atena feita de ouro e marfim.",
+            "Sou considerada uma das maiores obras-primas da Grécia."
+        ]
+    },
+    {
+        "id": 19,
+        "nome": "Monte Olimpo",
+        "dicas": [
+            "Sou a montanha mais alta da Grécia",
+            "Os antigos gregos achavam que meu topo estava sempre coberto de nuvens.",
+            "Sou um nome popular para montanhas.",
+            "Anos atrás eu era governado por Zeus.",
+            "Na mitologia grega, os deuses moravam aqui."
+        ]
+    },
+    {
+        "id": 20,
+        "nome": "Arco de Constantino",
+        "dicas": [
+            "Fui inaugurado no ano de 315 d.C.",
+            "Meu nome leva o nome do imperador que ordenou minha construção.",
+            "Represento a vitória docristianismo sobre o paganismo na antiga Roma.",
+            "Sou um famoso monumento da Roma Antiga, localizado próximo ao Coliseu.",
+            "Fui erguido para comemorar a vitória do imperador Constantino sobre seu rival Maxêncio."
+        ]
+    },
+    {
+        "id": 21,
+        "nome": "Estátua de Vênus de Milo",
+        "dicas": [
+            "Me encontro atualmente no Museu do Louvre, França",
+            "Alexandre de Antioquia me esculpiu",
+            "Fui descoberta em 1820, na Ilha de Milos localizada na Grécia, já faltando dois braços",
+            "Represento Afrodite, Deusa do amor e da beleza",
+            "Fui feita em mármore branco e buscando o realismo"
+        ]
+    },
+    {
+        "id": 22,
+        "nome": "Odisseia",
+        "dicas": [
+            "Faço parte do gênero literário romantico.",
+            "Conto a história de Odisseu retornando para seu reino e familia pós guerra de Troia",
+            "Sou uma sequência literária",
+            "Fui produzida pelo poeta grego Homero",
+            "Não estou escrita em ordem cronológica"
+        ]
+    },
+    {
+        "id": 23,
+        "nome": "Coroa de louros",
+        "dicas": [
+            "Na mitologia grega sou relacionada ao deus Apolo",
+            "Sou símbolo de vitória e honra",
+            "Imperadores romanos me usavam como símbolo da sua autoridade e conquistas",
+            "Na Grécia Antiga, eu era usada para homenagear os vencedores dos Jogos Olímpicos",
+            "Sou feita de ramos e folhas de loureiro"
+        ]
+    },
+    {
+        "id": 24,
+        "nome": "Calendário  Juliano",
+        "dicas": [
+            "Fui inserido no meio social dos romanos em 46 a.C",
+            "Surgi no período conhecido como 'Ano da Confusão'",
+            "Antes da minha criação, as pessoas se baseavam no ciclo da Lua",
+            "Faço Homenagem  a dois imperadores: Júlio César e Augusto",
+            "Minha criação contou com a ajuda do astrônomo Sosígenes e do Papa Gregório XIII"
+        ]
+    },
+    {
+        "id": 25,
+        "nome": "Cavalo de Troia",
+        "dicas": [
+            "Sou um presente grego",
+            "Apesar de ser muito falado, sou um mito",
+            "Fui enviado num período de guerra com o intuito de invadir o território inimigo",
+            "Fui escrito por Homero",
+            "Também sou usado como expressão popular"
+        ]
+    },
+    {
+        "id": 26,
+        "nome": "Moeda de Constantino",
+        "dicas": [
+            "Sou chamada de Solidus",
+            "Fui importante para a economia",
+            "Servi como propaganda política e religiosa",
+            "Era composta por ouro",
+            "Fui criada pelo primeiro imperador cristão"
+        ]
+    },
+    {
+        "id": 27,
+        "nome": "Lira",
+        "dicas": [
+            "Segundo a lenda, fui criada pelo deus Hermes",
+            "Sou um símbolo de cultura e arte",
+            "Fui muito usada durante a antiguidade",
+            "Eu era muito usada em cerimônias religiosas, festivais e para acompanhar a poesia e a dança.",
+            "Sou um instrumento de cordas"
+        ]
+    },
+    {
+        "id": 28,
+        "nome": "Cerâmica grega",
+        "dicas": [
+            "Sou muito importante para a economia local",
+            "Tenho pigmentos fortes, como laranja, vermelho e preto.",
+            "Posso ter símbolos, pessoas, repetições de linhas e animais",
+            "Ajudo no mantimento de bebidas e alimentos",
+            "Tenho dois principais estilos: Minoan e Miceno"
+        ]
+    },
+    {
+        "id": 29,
+        "nome": "Tridente de Poseidon",
+        "dicas": [
+            "Pertenço a um deus grego",
+            "Sou usado como arma",
+            "Tenho como função controlar tempestades marinhas",
+            "Sou o cetro do deus Netuno, na mitologia romana",
+            "Sou parecido com um garfo"
+        ]
+    },
+    {
+        "id": 30,
+        "nome": "Lucerna",
+        "dicas": [
+            "Posso aparecer com variados moldes.",
+            "Sou usada para iluminação",
+            "Posso ser escupida em pedras ou em moldados com terracota",
+            "Também fui usada para a divulgação da cultura",
+            "Ganhei destaque na Pompeia"
+        ]
+    }
+]

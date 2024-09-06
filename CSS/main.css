@@ -1,39 +1,93 @@
-.edit__body {
-    background-color: #ffd28f;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-html{
+html, body, .main, .informacoes{
     height: 100%;
+    width: 100%;
+    background-color: #ffd28f  
 }
 
-.edit__buttom{
-    background-color: #ffb13a !important;
-    border-color: #7cd456!important;
-    width: 75% !important; 
+.card{
+    display: grid;
+    grid-template-areas: "logo"
+                "botoes";
+    grid-template-rows: 50vh 50vh;   
+    justify-content: center;     
+}
+
+.container{
+    padding-top: 50px;
+    grid-area: logo;
+}
+
+.img{
+    width: 90vw;
+}
+
+.buttons{
+    grid-area: botoes;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.buttom{
+    text-decoration: none;
+    color: white;
+    width: 60vw;
+    padding: 20px 0;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #ffb13a;
+    border-color: #7cd456;
 }
 
 
-.edit__buttons{
-    height: 55vh;  /* trocar */ 
-}
 
 
 @media only screen and (min-width : 450px) {
-
-    .edit__img{
-        width: 450px !important;
-        height: 304px !important;
+    
+    .img{
+        width: 405px;
     }
-
-    .edit__buttom{
-        width: 260px !important;
-        height:  60px !important;
+    
+    .buttom{
+        text-decoration: none;
+        color: white;
+        width: 270px;
+        padding: 20px 0;
+        text-align: center;
+        border-radius: 5px;
+        background-color: #ffb13a;
+        border-color: #7cd456;
     }
 }
 
-@media only screen and (min-width : 600px) {
-    .edit__container{
-        background-color: #fdc168;
-        height: 90% !important;
+@media only screen and (min-width : 750px){
+    
+    .main{
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
+    .card{
+        display: flex;  
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        gap: 100px;
+        background-color: #fdc168;
+        width: 450px;
+        padding-bottom: 30px;
+        border-radius: 10px;
+    }
+
+    .container{
+        padding-top: 30px;
+    }
+
 }
